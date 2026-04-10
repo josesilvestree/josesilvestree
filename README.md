@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o José Silvestre!
+# 👋 Olá, sou o José Silvestre!
 
 Bem-vindo ao meu perfil do GitHub! Sou estudante de Licenciatura em Engenharia Informática e de Computadores no Instituto Superior Técnico.
 
